@@ -1,0 +1,6 @@
+
+nome = mago
+atributos = AT
+pontos_de_atributos = PA
+AT = FOR  CON  DEX  AGI  INT   WILL  PER  CAR
+PA = 1    5   2    3     4     0     2    0

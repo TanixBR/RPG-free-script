@@ -1,0 +1,6 @@
+
+nome = bercerker
+atributos = AT
+pontos_de_atributos = PA
+AT = FOR  CON  DEX  AGI  INT   WILL  PER  CAR
+PA = 5    5    2    1     0     0     2    0
