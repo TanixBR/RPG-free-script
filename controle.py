@@ -7,31 +7,31 @@ import sysconfig
 #=- nome, atributos, pontos de atributos\\
 req = None
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\anao.txt','r')   
+ref_arquivo = open('anao.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\assacino.txt','r')   
+ref_arquivo = open('assacino.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\bercerker.txt','r')   
+ref_arquivo = open('bercerker.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\elfo.txt','r')   
+ref_arquivo = open('elfo.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\guardian.txt','r')   
+ref_arquivo = open('guardian.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\mago.txt','r')   
+ref_arquivo = open('mago.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 
-ref_arquivo = open('c:\\Users\\zambe\\Desktop\\trabalhosizaias\\rpg_free\\ogro.txt','r')   
+ref_arquivo = open('ogro.txt','r')   
 string_arquivo = ref_arquivo.read()
 print(string_arquivo[:256])
 try: 
