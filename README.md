@@ -1,5 +1,3 @@
 # RPG-free-script
-
-Este é um tipo de game foi criado pençando nos jogadores lendarios de R.P.G.
-E tambem nos lendarios progamadores, primeiro criado em python mas modular
-pode ser migrado para qualquer liguagem.
+Este é um tipo de game que foi criado pensando nos jogadores lendárias de R.P.G, 
+e também nos lendários programadores, primeiro criado em python mas modular pode ser migrado para qualquer linguagem.
