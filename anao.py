@@ -3,7 +3,7 @@ import sysconfig
 
 atributos = 'AT'
 pontos_de_atributos = 'PA'
-
+nome = 'Anão'
 AT = [ 
     'FOR', 
     'CON', 
@@ -28,5 +28,5 @@ if len in AT!=len in AT:
     print('ERRO!'),
 if len in PA!=len in PA:
     print ('ERRO!')    
-print('\n', len(AT), AT,'\n', len (PA),PA)
+print('\n''\r',(nome),'\n', len(AT), AT,'\n', len (PA),PA,'\n''\r')
     
