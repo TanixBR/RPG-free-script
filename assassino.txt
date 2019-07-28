@@ -1,5 +1,5 @@
 
-nome = assacino
+nome = assassino
 atributos = AT
 pontos_de_atributos = PA
 AT = FOR  CON  DEX  AGI  INT   WILL  PER  CAR
